@@ -10,6 +10,6 @@ country.font = new Font("Helvetica",15); country.textColor = new Color(color1())
 let bgImage = await transparent();
 w.backgroundImage = bgImage;return w; }
 
-function color1() { let mode = Device.isUsingDarkAppearance(); if (mode == true) { return "#FF6A00"; } else { return "#FF6A00"; } }
+function color1() { let mode = Color.dynamic; if (mode == true) { return "#FF6A00"; } else { return "#FF6A00"; } }
 
-function color2() { let mode = Device.isUsingDarkAppearance(); if (mode == true) { return "#FF6A00"; } else { return "#FF6A00"; } }
+function color2() { let mode = Color.dynamic; if (mode == true) { return "#FF6A00"; } else { return "#FF6A00"; } }
