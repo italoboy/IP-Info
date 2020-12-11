@@ -23,7 +23,7 @@ Run the script once after changing anything.
 
 *if you are Persian or Arabic, you must remove *//* from line 107 and put it at line 104 instead.
 
-** you can change your desire calendar show at either line 104 or 107. 
+** you can change your desire calendar format at either line 104 or 107. 
 
 2. For selecting or changing your background simply enable resetWidget as "true" at line 12 and after that disable it back to false.
 
