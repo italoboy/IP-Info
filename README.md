@@ -8,19 +8,18 @@ Proudly a dual project by Xkfdhrwhdk & italoboy, a proffesional large and medium
 1. Download both PixelWidget and Pixel-Preferences. 
 ### In Pixel-Preferences:
 
-1. Put your weather API at line 5 (you should have register at www.openweathermap.org first then go to your profile and get your own API)
+1. Put your weather API at line 5 (you must register at www.openweathermap.org first then go to your profile and get your own API)
 2. Put your city weather at line 6 (it is avilable as the last digit numbers of your city weather link at www.openweathermap.org)
 3. Put your Username at line 8.
 4. Select either C or F for weather unit at line 9.
-
-****5. Pixel (Android style) or Siri (iOS style) !? at line 22.
+5. Pixel (Android style) or Siri (iOS style) !? at line 22.
 
 
 ### In PixelWidget:
 
-1. Set your languge code at line 6* (**)
+1. Set your language code at line 6* (**)
 
-*if you are Persian or Arabic, you should have remove *//* from line 107 and put it at line 104. 
+*if you are Persian or Arabic, you must remove *//* from line 107 and put it at line 104 instead.
 
 ** you can change your desire calendar show at either line 104 or 107. 
 
