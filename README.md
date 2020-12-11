@@ -13,7 +13,7 @@ Proudly a dual project by Xkfdhrwhdk & italoboy, a proffesional large and medium
 3. Put your Username at line 8.
 4. Select either C or F for weather unit at line 9.
 
-*** ***5. Pixel (Android style) or Siri (iOS style) !? at line 22.
+****5. Pixel (Android style) or Siri (iOS style) !? at line 22.
 
 
 ### In PixelWidget:
