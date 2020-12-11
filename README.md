@@ -22,7 +22,7 @@ Proudly a dual project by Xkfdhrwhdk & italoboy, a proffesional large and medium
 
 ** you can change your desire calendar show at either line 104 or 107. 
 
-2. For selecting or changing your *** background simply enable resetWidget as "true" at line 12 and after that disable it back to false.
+2. For selecting or changing your background simply enable resetWidget as "true" at line 12 and after that disable it back to false.
 
 3. Weather Source url: it is an extra option for putting your likeable weather link inside at lines 382,383,412,413,460,461.
 
